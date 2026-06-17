@@ -18,7 +18,7 @@ real-world cloud monitoring skills.
 
 
 
-![Architecture](screenshots/Architecture.png)
+![Architecture](Architecture.png)
 
 
 
@@ -48,49 +48,49 @@ real-world cloud monitoring skills.
 ### CloudWatch Log Stream
 
 
-![CloudWatch Logs](screenshots/cloudwatch-logs.png)
+![CloudWatch Logs](cloudwatch-logs.png)
 
 
 
 ### CloudWatch Metric Filter
 
 
-![Metric Filter](screenshots/metric-filter.png)
+![Metric Filter](metric-filter.png)
 
 
 
 ### CloudWatch Alarm Triggered
 
 
-![Alarm Triggered](screenshots/alarms-triggered.png)
+![Alarm Triggered](/alarms-triggered.png)
 
 
 
 ### Email Alert Received
 
 
-![Email Alert](screenshots/email-alerts.png)
+![Email Alert](email-alerts.png)
 
 
 
 ### Lambda Functions
 
 
-![Lambda Functions](screenshots/lambda-functions.png)
+![Lambda Functions](lambda-functions.png)
 
 
 
 ### Lambda Monitor
 
 
-![Lambda Monitor](screenshots/lambda-monitor.png)
+![Lambda Monitor](lambda-monitor.png)
 
 
 
 ### CloudWatch Log Group
 
 
-![Log Group](screenshots/log-group.png)
+![Log Group](log-group.png)
 
 
 
