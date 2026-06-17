@@ -69,7 +69,7 @@ real-world cloud monitoring skills.
 ### Email Alert Received
 
 
-![Email Alert](email-alerts.png)
+![Email Alerts](email-alerts.png)
 
 
 
